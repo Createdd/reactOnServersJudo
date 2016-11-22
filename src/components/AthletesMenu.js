@@ -3,7 +3,7 @@ import React from "react";
 import {Link} from "react-router";//generate a link component from react-router to create links between views
 import athletes from "../data/athletes";//get each athlete from the folder
 
-export default class AthletesMenu extendes React.Component{
+export default class AthletesMenu extends React.Component{
   render(){
     return(
       <nav className="athletes-menu">
