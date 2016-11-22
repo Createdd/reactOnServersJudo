@@ -5,3 +5,7 @@
 https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-react-and-node-app
 
 *Stay motivated!*
+
+See the result on Heroku:
+
+https://ddcreationstudios-reactjudo.herokuapp.com/ 
