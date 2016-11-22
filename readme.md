@@ -6,6 +6,6 @@ https://scotch.io/tutorials/react-on-the-server-for-beginners-build-a-universal-
 
 *Stay motivated!*
 
-See the result on Heroku:
+###See the result on Heroku:
 
-https://ddcreationstudios-reactjudo.herokuapp.com/ 
+https://ddcreationstudios-reactjudo.herokuapp.com/
